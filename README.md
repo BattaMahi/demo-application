@@ -1,2 +1,2 @@
-# demo-application
+# Java-demo-application
 testing purpose
